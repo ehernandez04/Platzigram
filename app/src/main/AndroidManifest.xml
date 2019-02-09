@@ -26,10 +26,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".LoginActivity" />
         </activity>
-        <activity
-            android:name=".ReferenciaActivity"
-            android:label="@string/title_activity_referencia"
-            android:theme="@style/AppTheme" />
         <activity android:name=".view.ContainerActivity" />
         <activity
             android:name=".view.PictureDetailsActivity"
